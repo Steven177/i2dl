@@ -1,0 +1,5 @@
+batch_size: 4
+lr: 0.015
+lr_decay: 0.72614584
+n_hidden: 1094
+reg: 0.0003007
